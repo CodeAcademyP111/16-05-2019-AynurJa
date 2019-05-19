@@ -1,0 +1,10 @@
+.main{
+    height: 100px;
+    width: 100px;
+    float: left;
+    border-radius: 10px;
+    margin:20px;
+    box-shadow: 10px 0px 20px rgba(0, 0, 0, 0.7);
+
+
+}
